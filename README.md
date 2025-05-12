@@ -1,2 +1,2 @@
 # MyWebSite
-My personal website showcasing projects, experience, and contact information.
+Coming soon: this will be my personal website to showcase projects, experience, and contact information.
